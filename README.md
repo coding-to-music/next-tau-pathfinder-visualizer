@@ -1,3 +1,35 @@
+# next-tau-pathfinder-visualizer
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/next-tau-pathfinder-visualizer
+
+https://next-tau-pathfinder-visualizer.vercel.app
+
+From / By Tommy Daniels https://github.com/tomdaniels/pathfinder
+
+https://github.com/tomdaniels/pathfinder
+
+http://pathfinder-tau.vercel.app/
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/next-tau-pathfinder-visualizer.git
+git push -u origin main
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

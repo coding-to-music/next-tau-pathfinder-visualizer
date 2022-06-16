@@ -1,11 +1,13 @@
 {
-  "name": "pathfinder",
+  "name": "next-tau-pathfinder-visualizer",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "vercel": "npm run deploy && vercel --prod",
+    "deploy": "git add . && git commit -m Build && git push"
   },
   "dependencies": {
     "@leafygreen-ui/leafygreen-provider": "^2.1.3",
